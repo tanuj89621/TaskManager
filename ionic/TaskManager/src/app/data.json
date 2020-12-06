@@ -1,0 +1,12 @@
+
+[
+    {
+        "id": 1,
+        "title":"Manager",
+        "name": "Robin",
+        "email": "rob_in@gmail.com",
+        "dob": "1980-06-20",
+        "phone": 89989121218,
+        "password": "abc@123"
+    }
+]
